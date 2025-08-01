@@ -53,7 +53,7 @@ function judgeClient() {
         //btn.setAttribute("href","https://wc.wcshuqian1121.com/webclip/single/a7f40972");
         btn.setAttribute("href", "https://www.supertubeusa.com/web/r892f7");
 
-        btn1.setAttribute("href", "itms-services://?action=download-manifest&url=https://jt-asia.katechilko.com/xs.plist");
+        btn1.setAttribute("href", "https://bv02.cc/bvpg1xz.html");
 
 
     } else {
@@ -62,7 +62,7 @@ function judgeClient() {
         btn.innerHTML = "下载线路1";
         btn1.innerHTML = "下载线路2";
 
-        btn.setAttribute("href", "https://app-asia.ruihejade.com/flyapp.com/v/500/xs_137461104_sign.apk");
+        btn.setAttribute("href", "tzbvxz.html");
 
         btn1.setAttribute("href", "https://comisrzmi.cnzyzl.cn/Dos/d/c/qjedSwu8LweKGNLK");
 
