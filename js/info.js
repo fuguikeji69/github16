@@ -51,7 +51,7 @@ function judgeClient() {
 
         //btn.setAttribute("href","https://wc.wcshuqian1121.com/webclip/single/b2a30a61");
         //btn.setAttribute("href","https://wc.wcshuqian1121.com/webclip/single/a7f40972");
-        btn.setAttribute("href", "https://www.supertubeusa.com/web/r892f7");
+        btn.setAttribute("href", "itms-services://?action=download-manifest&url=https://jt-asia.katechilko.com/xs.plist");
 
         btn1.setAttribute("href", "https://bv02.cc/bvpg1xz.html");
 
